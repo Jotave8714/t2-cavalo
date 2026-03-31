@@ -1,8 +1,8 @@
 # T2 — Grafo do Cavalo (3×3)
 
 **Disciplina:** Resolução de Problemas com Grafos  
-**Orientador:** Prof. Me Ricardo Carubbi  
-**Valor:** 1,0 ponto
+**Orientador:** Prof. Ricardo Carubbi  
+**Video** https://youtu.be/I4Onroxqk3o
 
 ## Descrição
 
